@@ -4,7 +4,7 @@ I am a University of Hartford Computer Science graduate (magna cum laude) intere
 
 ## Featured work
 
-### AI Conversation Agent
+### [AI Conversation Agent](https://github.com/jtsekhansky/pretty-good-ai-conversation-agent)
 
 A Python voice-conversation application built for an AI engineering challenge. The project demonstrates multi-turn conversation handling, audio/telephony integration, Dockerized execution, automated testing, explicit safety gates, and offline-safe defaults. AI tools assisted development; design decisions, testing, evidence review, and final submission remained human-reviewed.
 
