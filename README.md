@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Jacob Tsekhansky
 
-<!--
-**jtsekhansky/jtsekhansky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a University of Hartford Computer Science graduate (magna cum laude) interested in entry-level software, data, IT/support, QA, and AI-adjacent work in Connecticut or remote.
 
-Here are some ideas to get you started:
+## Featured work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI Conversation Agent
+
+A Python voice-conversation application built for an AI engineering challenge. The project demonstrates multi-turn conversation handling, audio/telephony integration, Dockerized execution, automated testing, explicit safety gates, and offline-safe defaults. AI tools assisted development; design decisions, testing, evidence review, and final submission remained human-reviewed.
+
+## Experience and training
+
+- Data analysis and technical-documentation internship using Power BI and Excel.
+- Recent labs and projects in SQL, Python, Hadoop, Hive, Spark/PySpark, Git, SDLC, and cloud-computing concepts.
+- Several years of customer-facing, high-volume retail/service experience.
+
+## Currently seeking
+
+Entry-level software, data, IT/support, QA, technical trainee, or AI-adjacent roles in Connecticut or remote.
