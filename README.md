@@ -6,7 +6,7 @@ I am a University of Hartford Computer Science graduate (magna cum laude) intere
 
 ### [TraceRoom](https://github.com/jtsekhansky/traceroom) | [Live app](https://traceroom.app.space)
 
-An independent full-stack project for collaborative, evidence-backed incident investigations. I designed the workflow and led delivery of a React/Hono app with authenticated real-time rooms, speech transcription, public GitHub metadata, external reference search, and reviewed handoff exports. The repository documents 152 unit tests and 28 local browser/API tests.
+I designed and led delivery of TraceRoom as an independent project for DeepSpace's internship interview process. It is a full-stack app for collaborative, evidence-backed incident investigations, with authenticated real-time rooms, speech transcription, public GitHub metadata, external reference search, and reviewed handoff exports. The repository documents 152 unit tests and 28 local browser/API tests.
 
 ### [AI Conversation Agent](https://github.com/jtsekhansky/pretty-good-ai-conversation-agent)
 
