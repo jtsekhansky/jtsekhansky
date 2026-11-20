@@ -14,7 +14,7 @@ A Python voice-conversation application built for an AI engineering challenge. T
 
 ## Experience and training
 
-- Software Engineer Intern at DeepSpace (September 2026–present). I built and deployed ServiceFlow, a full-stack app that helps mobile auto detailers process inquiries, generate quotes from owner-defined pricing rules, approve bookings, and send follow-ups. It integrates AI-assisted intake, Google Calendar, and email. I used OpenAI Codex during development, demonstrated the app twice, and incorporated supervisor feedback before the pilot stage.
+- Software Engineer Intern at DeepSpace (September 2026–present). Built and deployed ServiceFlow, a React and TypeScript app that helps mobile auto detailers handle inquiries, quotes, bookings, and follow-ups. Built Hono APIs on Cloudflare Workers for rule-based pricing and quote approval, integrated Anthropic Claude, Google Calendar, and Resend, and verified the workflow with Vitest and Playwright. Developed with OpenAI Codex assistance.
 - Data analysis and technical-documentation internship using Power BI and Excel; named in the acknowledgments of Igor Balk's published book [Data-Driven Decision-Making in Marketing: A Casebook in Power BI](https://www.amazon.com/Data-Driven-Decision-Making-Marketing-Casebook-Power/dp/B0H8F6VVL3) for validating the labs and flagging unclear instructions.
 - Recent labs and projects in SQL, Python, Hadoop, Hive, Spark/PySpark, Git, SDLC, and cloud-computing concepts.
 - Several years of customer-facing, high-volume retail/service experience.
